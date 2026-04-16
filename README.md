@@ -2,19 +2,15 @@
 
 > End-to-end Business Intelligence solution analyzing sales, revenue & business trends using Power BI & Excel
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 ---
 
 ## 📸 Dashboard Preview
-![Sales Dashboard Preview](dashboard.png)
+![Sales Dashboard]( Sales dashboard.jpg)
 
 ---
 
 ## 📌 Project Overview
+
 An interactive Sales Analytics Dashboard built in Power BI to monitor KPIs, analyze revenue trends, and support data-driven decision making.
 
 This project demonstrates skills in data analysis, dashboard development, and business reporting.
@@ -27,7 +23,7 @@ This project demonstrates skills in data analysis, dashboard development, and bu
 ## 📊 Key Business Metrics
 
 | Metric | Value |
-|---|---|
+|--------|------|
 | 💰 Total Revenue | ₹8.87L+ |
 | 📦 Total Orders | 4,000+ |
 | 📈 Units Sold | 15,000+ |
@@ -41,7 +37,7 @@ This project demonstrates skills in data analysis, dashboard development, and bu
 - Sales Trend Analysis — Monthly performance tracking  
 - Category & Product Analysis — Identifying top-performing segments  
 - Regional Analysis — Region-wise comparison  
-- Interactive Filters — Dynamic slicers for date, category, and region  
+- Interactive Filters — Dynamic slicers  
 
 ---
 
@@ -67,13 +63,13 @@ This project demonstrates skills in data analysis, dashboard development, and bu
 ---
 
 ## 📂 Repository Structure
-
 powerbi-sales-dashboard/
 │
-├── Sales_Dashboard.pbix  
-├── Sales_Dashboard.pdf  
-├── dashboard.png  
-└── README.md  
+├── Sales_Dashboard.pbix
+├── Sales_Dashboard.pdf
+├──  Sales dashboard.jpg
+└── README.md
+
 
 ---
 
