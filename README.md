@@ -5,7 +5,7 @@
 ---
 
 ## 📸 Dashboard Preview
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](Dashboard.png)
 
 ---
 
