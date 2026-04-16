@@ -66,6 +66,7 @@ The project focuses on **data cleaning, data analysis, and dashboard development
 ## 📂 Repository Structure
 powerbi-sales-dashboard/
 │
+
 ├── Sales_Dashboard.pbix
 
 ├── Sales_Dashboard.pdf
