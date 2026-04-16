@@ -67,8 +67,11 @@ The project focuses on **data cleaning, data analysis, and dashboard development
 powerbi-sales-dashboard/
 │
 ├── Sales_Dashboard.pbix
+
 ├── Sales_Dashboard.pdf
-├── dashboard.png
+
+├── Dashboard.png
+
 └── README.md
 
 ---
