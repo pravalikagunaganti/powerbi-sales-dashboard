@@ -1,89 +1,95 @@
-# 📊 Sales Performance Dashboard — Power BI
+# 📊 Sales Performance Dashboard | Power BI | Data Analytics Portfolio Project
 
-> Data Analytics Project focused on dashboard development, KPI reporting, and business insights using Power BI & Excel
-
----
-
-## 📸 Dashboard Preview
-![Sales Dashboard](Dashboard.png)
+🚀 Data Analyst Project | KPI Dashboard | Business Intelligence | Power BI | SQL | Python
 
 ---
 
-## 📌 Project Overview
-
-Developed an interactive Sales Performance Dashboard in Power BI to analyze revenue, orders, and regional performance.
-
-The project focuses on **data cleaning, data analysis, and dashboard development** to support **data-driven decision making**.
-
-**Domain:** Retail Sales  
-**Role Simulated:** Data Analyst | Business Analyst | Reporting Analyst  
+## 🔍 Project Overview
+Designed and developed an end-to-end Sales Performance Dashboard using Power BI to transform raw data into actionable business insights. This project demonstrates real-world data analytics workflow including data cleaning, transformation, modeling, and interactive dashboard development for business decision-making.
 
 ---
 
-## 📊 Key Business Metrics
-
-| Metric | Value |
-|--------|------|
-| 💰 Total Revenue | ₹8.87L+ |
-| 📦 Total Orders | 4,000+ |
-| 📈 Units Sold | 15,000+ |
-| 🗺️ Coverage | Multi-region |
+## 🎯 Business Objective
+- Analyze sales performance across regions, categories, and time periods  
+- Identify revenue trends, growth opportunities, and performance gaps  
+- Enable stakeholders to monitor KPIs and make data-driven decisions  
 
 ---
 
-## ✅ Features & Analysis
-
-- KPI Dashboard — Revenue, Orders, Quantity tracking  
-- Sales Trend Analysis — Monthly performance insights  
-- Category & Product Analysis — Top-performing segments  
-- Regional Analysis — Region-wise comparison  
-- Interactive Filters — Dynamic slicers for analysis  
+## 🛠 Tools & Technologies
+- **Power BI** (DAX, Power Query, Data Modeling, Dashboarding)  
+- **Excel** (Data Source)  
+- **SQL / Python (Basic)** (Data Validation & Preprocessing)  
+- **Data Visualization & KPI Reporting**  
 
 ---
 
-## 🔍 Business Insights
-
-- Identified top revenue-generating product categories  
-- Analyzed monthly sales trends and peak periods  
-- Compared regional performance to highlight gaps  
-- Observed relationship between orders and revenue  
-
----
-
-## 🛠 Tech Stack & Skills
-
-- Power BI Desktop  
-- DAX (Basic Measures & Calculations)  
-- Power Query (Data Cleaning / ETL)  
-- Microsoft Excel  
-- Data Analysis  
-- Data Visualization  
-- KPI Reporting  
-- MIS Reporting  
+## 📊 Dataset Summary
+- 4,000+ sales transactions  
+- ₹8.87L+ total revenue  
+- 15,000+ units sold  
+- Multi-category, multi-region dataset  
 
 ---
 
-## 📂 Repository Structure
+## 📌 Key Features
+- 📈 KPI Dashboard (Revenue, Orders, Quantity)  
+- 📊 Monthly Sales Trend Analysis  
+- 🛍 Category & Product Performance Insights  
+- 🌍 Regional Performance Comparison  
+- 🎛 Interactive Filters & Slicers  
+- 🧩 Data Modeling using Star Schema  
 
-powerbi-sales-dashboard/
+---
 
-│
+## 🔄 Data Analysis Workflow
+1. Data Cleaning using Power Query  
+2. Data Transformation & Preprocessing  
+3. Data Modeling (Table Relationships)  
+4. KPI Development using DAX  
+5. Dashboard Design & Visualization  
 
-├── Sales_Dashboard.pbix
+---
 
-├── Sales_Dashboard.pdf
+## 💡 Business Insights & Impact
+- Identified top-performing categories contributing major revenue  
+- Highlighted underperforming regions for targeted improvement strategies  
+- Detected seasonal sales trends and peak demand periods  
+- Identified potential revenue gaps and optimization opportunities  
+- Enabled KPI-based performance tracking for better decision-making  
 
-├── Dashboard.png
+---
 
-└── README.md
+## 🧠 Business Use Case
+This dashboard can be used by business stakeholders, sales managers, and analysts to track performance, monitor KPIs, and identify actionable insights to improve revenue and operational efficiency.
+
+---
+
+## 📊 Dashboard Preview
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pravalikagunaganti/powerbi-sales-dashboard/main/Dashboard.png" width="850"/>
+</p>
+
+---
+
+## 📂 Repository Contents
+- Power BI Dashboard File (.pbix)  
+- Dataset (Excel)  
+- Dashboard Screenshot  
+
+---
+
+## 👩‍💻 About Me
+Aspiring Data Analyst skilled in Power BI, SQL, Excel, and Python. Passionate about solving business problems using data analytics, building dashboards, and delivering actionable insights.
 
 ---
 
 ## 📬 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/pravalika-gunagantiti-5a333a304  
+- Email: pravalikagunaganti16@gmail.com  
 
-- 📧 Email: pravalikagunaganti16@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/pravalika-gunagantiti-5a333a304  
-- 🐙 GitHub: https://github.com/pravalikagunaganti  
+---
 
-💡 Open to Data Analyst / Business Analyst / Operations roles
+## 🔎 Keywords (Search Optimization)
+Data Analyst | Power BI Dashboard | Data Visualization | Business Intelligence | KPI Dashboard | Data Analytics Project | SQL | Excel | Python | Data Cleaning | Data Transformation | EDA | Reporting | Data Modeling | DAX | Power Query | Dashboard Development | Data Analysis Portfolio | Business Insights | Data-Driven Decision Making.
 
