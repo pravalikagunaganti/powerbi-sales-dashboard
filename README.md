@@ -5,7 +5,7 @@
 ---
 
 ## 🔍 Project Overview
-Designed and developed an end-to-end **Sales Performance Dashboard** using Power BI to transform raw data into actionable business insights. This project demonstrates a real-world analytics workflow including data cleaning, transformation, data modeling, and interactive dashboard development for business decision-making.
+Designed and developed an end-to-end Sales Performance Dashboard using Power BI to transform raw data into actionable business insights. This project demonstrates a real-world analytics workflow including data cleaning, transformation, data modeling, and interactive dashboard development for business decision-making.
 
 ---
 
@@ -17,10 +17,10 @@ Designed and developed an end-to-end **Sales Performance Dashboard** using Power
 ---
 
 ## 🛠 Tools & Technologies
-- **Power BI** (DAX, Power Query, Data Modeling, Dashboarding)  
-- **Excel** (Data Source)  
-- **SQL / Python (Basic)** (Data Validation & Preprocessing)  
-- **Data Visualization & KPI Reporting**  
+- Power BI (DAX, Power Query, Data Modeling, Dashboarding)  
+- Excel (Data Source)  
+- SQL / Python (Basic) (Data Validation & Preprocessing)  
+- Data Visualization & KPI Reporting  
 
 ---
 
@@ -61,7 +61,7 @@ Designed and developed an end-to-end **Sales Performance Dashboard** using Power
 ---
 
 ## 🧠 Business Use Case
-This dashboard can be used by **sales managers, business teams, and analysts** to monitor performance, track KPIs, and identify actionable insights to improve revenue and operational efficiency.
+This dashboard can be used by sales managers, business teams, and analysts to monitor performance, track KPIs, and identify actionable insights to improve revenue and operational efficiency.
 
 ---
 
@@ -80,7 +80,7 @@ This dashboard can be used by **sales managers, business teams, and analysts** t
 ---
 
 ## 👩‍💻 About Me
-Aspiring **Data Analyst** skilled in Power BI, SQL, Excel, and Python. Passionate about building dashboards, analyzing data, and delivering actionable business insights.
+Aspiring Data Analyst skilled in Power BI, SQL, Excel, and Python. Passionate about building dashboards, analyzing data, and delivering actionable business insights.
 
 ---
 
