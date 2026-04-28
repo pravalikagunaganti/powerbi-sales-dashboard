@@ -1,11 +1,11 @@
-# 📊 Sales Performance Dashboard | Power BI | Data Analytics Portfolio Project
+# 📊 Sales Performance Dashboard | Power BI | Data Analytics Project
 
-🚀 Data Analyst Project | KPI Dashboard | Business Intelligence | Power BI | SQL | Python
+🚀 Data Analyst Portfolio Project | KPI Dashboard | Business Intelligence | Power BI | SQL | Python  
 
 ---
 
 ## 🔍 Project Overview
-Designed and developed an end-to-end Sales Performance Dashboard using Power BI to transform raw data into actionable business insights. This project demonstrates real-world data analytics workflow including data cleaning, transformation, modeling, and interactive dashboard development for business decision-making.
+Designed and developed an end-to-end **Sales Performance Dashboard** using Power BI to transform raw data into actionable business insights. This project demonstrates a real-world analytics workflow including data cleaning, transformation, data modeling, and interactive dashboard development for business decision-making.
 
 ---
 
@@ -55,13 +55,13 @@ Designed and developed an end-to-end Sales Performance Dashboard using Power BI 
 - Identified top-performing categories contributing major revenue  
 - Highlighted underperforming regions for targeted improvement strategies  
 - Detected seasonal sales trends and peak demand periods  
-- Identified potential revenue gaps and optimization opportunities  
-- Enabled KPI-based performance tracking for better decision-making  
+- Identified revenue gaps and potential optimization opportunities  
+- Enabled KPI-based performance tracking for better business decisions  
 
 ---
 
 ## 🧠 Business Use Case
-This dashboard can be used by business stakeholders, sales managers, and analysts to track performance, monitor KPIs, and identify actionable insights to improve revenue and operational efficiency.
+This dashboard can be used by **sales managers, business teams, and analysts** to monitor performance, track KPIs, and identify actionable insights to improve revenue and operational efficiency.
 
 ---
 
@@ -80,7 +80,7 @@ This dashboard can be used by business stakeholders, sales managers, and analyst
 ---
 
 ## 👩‍💻 About Me
-Aspiring Data Analyst skilled in Power BI, SQL, Excel, and Python. Passionate about solving business problems using data analytics, building dashboards, and delivering actionable insights.
+Aspiring **Data Analyst** skilled in Power BI, SQL, Excel, and Python. Passionate about building dashboards, analyzing data, and delivering actionable business insights.
 
 ---
 
@@ -92,4 +92,3 @@ Aspiring Data Analyst skilled in Power BI, SQL, Excel, and Python. Passionate ab
 
 ## 🔎 Keywords (Search Optimization)
 Data Analyst | Power BI Dashboard | Data Visualization | Business Intelligence | KPI Dashboard | Data Analytics Project | SQL | Excel | Python | Data Cleaning | Data Transformation | EDA | Reporting | Data Modeling | DAX | Power Query | Dashboard Development | Data Analysis Portfolio | Business Insights | Data-Driven Decision Making.
-
